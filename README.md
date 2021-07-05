@@ -7,3 +7,5 @@ mkdir (Nome_do_repositorio -> criar repositorio
 git init -> inicializar repositorio
 working space -> git add (Nome_do_arquivo) ->index->git commit (Nome_do_arquivo) ou git commit -m"comentario"->head
 git status -> checar a situacao das modificacoes
+checkout -> desfazer as ultimas alteracoes
+git diff README.md -> destaca as ultimas modificacoes feitas no arquivo
