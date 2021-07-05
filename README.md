@@ -1,4 +1,4 @@
-# Treinamento Git - Grupo Semear
+# Treinamento Git 
 
 O objetivo sera salvar alguns comandos do treinamento do semear.
 
