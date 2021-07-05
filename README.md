@@ -4,7 +4,7 @@ O objetivo sera salver alguns comandos do treinamento do semear.
 
 - Repositorio -> pasta que contem os arquivos 
 - Criar repositorio:
-`mkdir (Nome_do_repositorio`) 
+`mkdir (Nome_do_repositorio)` 
 - inicializar repositorio:
 `git init`
 -  Abrir arquivo de texto:
