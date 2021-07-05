@@ -13,8 +13,12 @@ O objetivo sera salver alguns comandos do treinamento do semear.
 - Checar a situacao das modificacoes: `git status`
 - Desfazer as ultimas alteracoes: `git checkout`
 - Destaca as ultimas modificacoes feitas no arquivo: 
-`git diff README.md`  
+`git diff README.md` 
 - Passar arquivo para repositorio online:
 `git push` 
 - Comando para clonar repositorio
 `git clone (link do repositorio)`
+- Pegar as alteracoes do remoto e trazer para o seu repositorio local:
+`git pull`
+- Para visualizar o historico de commits utiiza-se o comando:
+`git log`
