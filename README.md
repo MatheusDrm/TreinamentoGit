@@ -1,6 +1,6 @@
 # Treinamento Git - Grupo Semear
 
-O objetivo sera salver alguns comandos do treinamento do semear.
+O objetivo sera salvar alguns comandos do treinamento do semear.
 
 - Repositorio -> pasta que contem os arquivos 
 - Criar repositorio:
