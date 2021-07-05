@@ -22,3 +22,13 @@ O objetivo sera salver alguns comandos do treinamento do semear.
 `git pull`
 - Para visualizar o historico de commits utiiza-se o comando:
 `git log`
+- Comando para mostrar conteudo:
+`cat README.md`
+- Criar ramificacao:
+`git checkout -b ramificacao1`
+- Voltar para o master:
+`git checkout master`
+- passar ramificacao criada para o remoto
+`git push origin ramificao1` ou `git push --set-upstream origin ramificacao1`
+- Para juntar a ramificacao com a master usar o comando:
+`git merge ramificacao1` 
